@@ -1,6 +1,6 @@
 # Branch Predictors: An Introduction
 
-This repository contains implementations of various types of branch predictors commonly used in pipeline processors to optimize instruction flow. The predictors covered are Local, Gshare, and Tournament predictors.
+This repository contains implementations of various types of branch predictors commonly used in pipeline processors to optimize instruction flow. The predictors covered are Local, Gshare, and Tournament predictors. s1923864.pdf file explores each branch predictor on 3 benchmarks, which are 
 
 ## Table of Contents
 
